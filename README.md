@@ -75,7 +75,7 @@ Visualized how movie releases are distributed over the years, highlighting activ
 
    jupyter notebook Netflix_Analysis.ipynb
 
-   🙋‍♂️ About Me
+  ### 🙋‍♂️ About Me
 I'm a university student practicing Data Science by working on real-world datasets. This project is part of my learning journey where I apply concepts of data wrangling and visualization.
 Let’s connect on LinkedIn and grow together!
 
