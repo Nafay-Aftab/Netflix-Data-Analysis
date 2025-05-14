@@ -79,5 +79,7 @@ Visualized how movie releases are distributed over the years, highlighting activ
 I'm a university student practicing Data Science by working on real-world datasets. This project is part of my learning journey where I apply concepts of data wrangling and visualization.
 Let’s connect on LinkedIn and grow together!
 
+LinkedIn: [Nafay Aftab](https://www.linkedin.com/in/muhammad-nafay-aftab-233138346/)
+
 
 
